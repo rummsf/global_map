@@ -42,6 +42,14 @@ class App extends Component {
     // this.setState({ countriesToRender: countriesToRender });
   };
 
+  // sortBy = () => {
+  //   const countries = this.props.countriesToRender;
+  //   const countriesArray = Object.entries(countries);
+  //   return countriesArray.sort((a, b) => {
+  //     return b.value - a.value;
+  //   });
+  // };
+
   // Return unique instances of countries from the full list
   // countries = () => {
   //   const allCountries = this.state.developers.map(
@@ -112,7 +120,7 @@ class App extends Component {
               <Table
                 {...props}
                 countriesToRender={countries}
-
+                // sortBy={this.sortBy}
                 // countriesToRender={this.state.countriestoRender} />;
                 // {this.state.countries} />;
                 // developers={this.state.developers}

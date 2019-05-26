@@ -73,9 +73,14 @@ class Table extends React.Component {
 
   sortBy = () => {
     const countries = this.props.countriesToRender;
-    const countriesArray = Object.entries(countries);
+    const countriesArray = Object.keys(countries).map(country => ({
+      [country]: countries[country]
+    }));
+
     return countriesArray.sort((a, b) => {
-      return b.value - a.value;
+      const aVal = Object.values(a)[0];
+      const bVal = Object.values(b)[0];
+      return bVal - aVal;
     });
   };
 
