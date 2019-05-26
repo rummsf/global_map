@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  country: MyString
+  start: 2019-05-24 14:05:40
+  end: 2019-05-24 14:05:40
+
+two:
+  country: MyString
+  start: 2019-05-24 14:05:40
+  end: 2019-05-24 14:05:40
