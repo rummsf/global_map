@@ -62,6 +62,23 @@ class Table extends React.Component {
   // sortByDeveloperCount = () => {
   //   developersPerCountry().sort;
   // };
+
+  getCountryNames = () => {
+    return Object.keys(this.props.countriesToRender);
+  };
+
+  getDeveloperCounts = () => {
+    return Object.values(this.props.countriesToRender);
+  };
+
+  sortBy = () => {
+    const countries = this.props.countriesToRender;
+    const countriesArray = Object.entries(countries);
+    return countriesArray.sort((a, b) => {
+      return b.value - a.value;
+    });
+  };
+
   render() {
     return (
       <div>
@@ -69,25 +86,31 @@ class Table extends React.Component {
           <thead>
             <tr>
               <th>Country</th>
-              <th>Developers</th>
+              <th>
+                {" "}
+                <button onClick={() => this.sortBy()}>Developers</button>
+              </th>
             </tr>
           </thead>
           <tbody>
-            <td>
-              {this.props.countries.map(country => {
-                return <tr>{country.country}</tr>;
-              })}
+            <tr>
+              <td>
+                {this.getCountryNames().map(name => {
+                  return <tr>{name}</tr>;
+                })}
+                {/* {this.props.countries} */}
+              </td>
+
               {/* {this.countryNames()} */}
               {/* {this.sortCountries().map(country => {
                 return <tr>{country}</tr>;
               })} */}
-            </td>
-            <td>
-              {/* {this.sortDeveloperCount().map(count => {
-                return <tr>{count}</tr>;
-              })} */}
-              {/* {this.props.countries} */}
-            </td>
+              <td>
+                {this.getDeveloperCounts().map(count => {
+                  return <tr>{count}</tr>;
+                })}
+              </td>
+            </tr>
           </tbody>
         </table>
       </div>
