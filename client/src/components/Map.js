@@ -1,17 +1,24 @@
 import * as React from "react";
 import { Chart } from "react-google-charts";
 
-const data = [
-  ["Country", "Popularity"],
-  ["Germany", 200],
-  ["United States", 300],
-  ["Brazil", 400],
-  ["Canada", 500],
-  ["France", 600],
-  ["RU", 700]
-];
+// const data = [
+//   ["Country", "DevCount"],
+//   ["Germany", 200],
+//   ["United States", 300],
+//   ["Brazil", 400],
+//   ["Canada", 500],
+//   ["France", 600],
+//   ["RU", 700]
+// ];
+
 class Map extends React.Component {
+  // countryData = () => {
+  //   const countries = this.props.countriesToRender;
+  //   return Object.entries(countries);
+  // };
+
   render() {
+    const data = this.props.countriesToRender;
     return (
       <div className="App">
         <Chart
