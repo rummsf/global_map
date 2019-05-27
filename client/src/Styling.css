@@ -1,0 +1,20 @@
+.table {
+  width: 50%;
+}
+
+tr:nth-child(even) {
+  background-color: #e3e9f5;
+}
+
+th {
+  width: 30%;
+}
+
+td {
+  text-align: center;
+}
+
+#scroll {
+  max-height: 680px;
+  overflow-x: scroll;
+}

@@ -68354,1892 +68354,1892 @@ developers =
    end: "11/1/17 7:22"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/23/17 9:46",
    end: "10/23/17 10:03"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/18/17 11:47",
    end: "10/19/17 12:04"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/26/17 1:49",
    end: "10/26/17 2:05"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/26/17 2:30",
    end: "10/26/17 2:36"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/25/17 11:55",
    end: "10/26/17 12:07"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/18/17 1:56",
    end: "10/18/17 2:11"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/18/17 12:15",
    end: "10/18/17 12:37"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/23/17 2:36",
    end: "10/23/17 3:26"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/28/17 3:00",
    end: "10/28/17 3:17"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/30/17 5:49",
    end: "10/30/17 6:18"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/19/17 11:59",
    end: "10/20/17 12:39"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/20/17 2:34",
    end: "10/20/17 2:44"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/19/17 11:55",
    end: "10/20/17 12:36"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/26/17 7:42",
    end: "10/26/17 7:55"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/19/17 12:07",
    end: "10/19/17 12:43"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/25/17 7:23",
    end: "10/25/17 7:30"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/19/17 11:17",
    end: "10/19/17 11:32"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/25/17 11:19",
    end: "10/25/17 11:29"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/26/17 2:33",
    end: "10/26/17 2:50"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/29/17 10:54",
    end: "10/30/17 1:49"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/30/17 8:04",
    end: "10/30/17 8:20"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/19/17 11:42",
    end: "10/19/17 11:49"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/19/17 2:34",
    end: "10/19/17 2:47"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/19/17 12:43",
    end: "10/19/17 12:54"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/26/17 2:11",
    end: "10/26/17 2:20"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/23/17 9:46",
    end: "10/23/17 10:04"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/25/17 11:42",
    end: "10/25/17 11:53"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/30/17 5:52",
    end: "10/30/17 6:03"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/21/17 3:34",
    end: "10/21/17 3:57"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/25/17 11:17",
    end: "10/25/17 11:35"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/26/17 2:43",
    end: "10/26/17 3:04"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/26/17 1:03",
    end: "10/26/17 1:19"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/19/17 11:25",
    end: "10/19/17 11:47"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/20/17 12:05",
    end: "10/20/17 12:17"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/26/17 3:48",
    end: "10/26/17 4:00"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/16/17 11:53",
    end: "10/16/17 12:10"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/18/17 5:37",
    end: "10/18/17 5:45"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/19/17 11:19",
    end: "10/19/17 11:38"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/18/17 11:56",
    end: "10/19/17 12:07"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/25/17 11:12",
    end: "10/25/17 11:32"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/25/17 11:23",
    end: "10/25/17 11:50"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/26/17 3:30",
    end: "10/26/17 3:38"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/27/17 10:28",
    end: "10/27/17 10:45"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/19/17 1:44",
    end: "10/19/17 2:26"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/19/17 11:42",
    end: "10/19/17 11:54"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/23/17 11:52",
    end: "10/23/17 12:16"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/16/17 12:44",
    end: "10/16/17 1:00"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/19/17 1:23",
    end: "10/19/17 6:11"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/20/17 12:56",
    end: "10/20/17 1:03"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/20/17 8:15",
    end: "10/20/17 8:23"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/21/17 12:21",
    end: "10/21/17 12:37"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/24/17 12:11",
    end: "10/24/17 12:21"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/25/17 11:22",
    end: "10/25/17 11:48"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/26/17 12:33",
    end: "10/26/17 7:46"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/25/17 11:59",
    end: "10/26/17 12:17"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/30/17 4:37",
    end: "10/30/17 5:13"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/26/17 3:20",
    end: "10/26/17 3:38"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/20/17 8:47",
    end: "10/20/17 9:01"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/19/17 10:53",
    end: "10/19/17 10:59"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/26/17 12:22",
    end: "10/26/17 12:34"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/26/17 12:47",
    end: "10/26/17 12:56"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/26/17 3:27",
    end: "10/26/17 5:23"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/21/17 2:37",
    end: "10/21/17 2:49"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/27/17 1:00",
    end: "10/27/17 1:15"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/20/17 2:51",
    end: "10/20/17 2:59"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/19/17 3:05",
    end: "10/19/17 3:13"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/19/17 2:46",
    end: "10/19/17 3:32"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/20/17 7:56",
    end: "10/20/17 8:16"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/25/17 11:18",
    end: "10/25/17 11:26"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/25/17 11:10",
    end: "10/25/17 11:27"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/26/17 12:14",
    end: "10/26/17 12:25"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/19/17 5:32",
    end: "10/19/17 5:44"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/26/17 9:56",
    end: "10/26/17 12:19"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/19/17 5:00",
    end: "10/19/17 5:15"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/19/17 12:12",
    end: "10/19/17 12:33"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/19/17 12:31",
    end: "10/19/17 12:56"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/26/17 10:31",
    end: "10/26/17 10:44"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/26/17 12:17",
    end: "10/26/17 12:46"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/25/17 11:17",
    end: "10/25/17 11:35"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/26/17 11:20",
    end: "10/26/17 11:28"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/19/17 12:04",
    end: "10/19/17 12:24"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/17/17 3:20",
    end: "10/17/17 3:32"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/20/17 12:45",
    end: "10/20/17 1:22"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/29/17 2:44",
    end: "10/29/17 3:07"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/26/17 12:29",
    end: "10/26/17 1:44"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/19/17 11:35",
    end: "10/19/17 11:50"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/20/17 4:20",
    end: "10/20/17 4:37"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/20/17 12:34",
    end: "10/20/17 12:49"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/26/17 12:28",
    end: "10/26/17 5:01"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/25/17 11:44",
    end: "10/26/17 12:01"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/19/17 5:51",
    end: "10/19/17 6:14"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/20/17 1:17",
    end: "10/20/17 1:45"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/20/17 2:57",
    end: "10/20/17 3:18"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/26/17 4:31",
    end: "10/26/17 5:09"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/26/17 8:44",
    end: "10/26/17 10:56"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/26/17 12:49",
    end: "10/26/17 1:09"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/19/17 12:37",
    end: "10/19/17 12:51"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/19/17 4:30",
    end: "10/19/17 4:44"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/20/17 1:00",
    end: "10/20/17 1:14"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/26/17 3:25",
    end: "10/26/17 3:35"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/19/17 10:42",
    end: "10/19/17 11:06"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/23/17 3:58",
    end: "10/23/17 4:06"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/26/17 1:06",
    end: "10/26/17 1:17"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/19/17 10:49",
    end: "10/19/17 11:08"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/18/17 11:03",
    end: "10/18/17 11:14"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/19/17 12:20",
    end: "10/19/17 12:31"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/26/17 12:40",
    end: "10/26/17 2:57"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/18/17 11:18",
    end: "10/18/17 11:33"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/20/17 5:23",
    end: "10/20/17 5:46"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/20/17 2:49",
    end: "10/20/17 3:27"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/28/17 2:51",
    end: "10/28/17 3:05"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/20/17 5:35",
    end: "10/20/17 5:45"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/19/17 11:53",
    end: "10/20/17 12:03"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/26/17 5:29",
    end: "10/26/17 5:37"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/20/17 12:55",
    end: "10/20/17 1:03"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/26/17 9:39",
    end: "10/26/17 9:54"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/19/17 3:12",
    end: "10/19/17 3:26"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/18/17 10:46",
    end: "10/18/17 10:57"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/19/17 10:48",
    end: "10/19/17 10:59"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/19/17 10:59",
    end: "10/19/17 11:11"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/27/17 3:49",
    end: "10/27/17 5:29"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/20/17 7:46",
    end: "10/20/17 8:15"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/19/17 11:39",
    end: "10/19/17 11:50"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/20/17 1:36",
    end: "10/20/17 2:07"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/25/17 11:36",
    end: "10/25/17 11:51"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/20/17 2:48",
    end: "10/20/17 2:58"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/19/17 12:09",
    end: "10/19/17 12:17"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/20/17 10:02",
    end: "10/20/17 10:28"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/19/17 9:35",
    end: "10/19/17 10:12"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/31/17 5:28",
    end: "10/31/17 5:46"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/20/17 2:43",
    end: "10/20/17 2:59"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/26/17 2:07",
    end: "10/26/17 2:56"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/19/17 11:00",
    end: "10/19/17 11:24"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/19/17 5:09",
    end: "10/19/17 5:43"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/20/17 8:11",
    end: "10/20/17 8:35"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/26/17 12:24",
    end: "10/26/17 12:46"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/27/17 8:31",
    end: "10/27/17 8:46"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/28/17 10:10",
    end: "10/28/17 11:02"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/26/17 9:27",
    end: "10/28/17 1:08"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/19/17 12:37",
    end: "10/19/17 12:48"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/19/17 11:26",
    end: "10/19/17 11:42"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/20/17 5:27",
    end: "10/20/17 5:40"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/26/17 1:00",
    end: "10/26/17 1:32"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/19/17 1:46",
    end: "10/19/17 1:53"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/16/17 1:32",
    end: "10/16/17 1:42"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/16/17 2:06",
    end: "10/16/17 2:17"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/16/17 11:24",
    end: "10/16/17 11:38"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/16/17 11:37",
    end: "10/16/17 11:53"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/17/17 1:28",
    end: "10/17/17 1:41"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/17/17 12:16",
    end: "10/17/17 12:26"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/17/17 12:26",
    end: "10/17/17 12:40"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/18/17 1:10",
    end: "10/18/17 1:29"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/18/17 1:53",
    end: "10/18/17 2:12"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/18/17 10:36",
    end: "10/18/17 10:43"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/18/17 10:45",
    end: "10/18/17 10:52"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/18/17 10:43",
    end: "10/18/17 11:03"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/18/17 11:08",
    end: "10/18/17 11:18"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/18/17 11:21",
    end: "10/18/17 11:29"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/18/17 11:19",
    end: "10/18/17 11:36"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/18/17 11:36",
    end: "10/18/17 11:47"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/18/17 11:36",
    end: "10/18/17 11:51"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/18/17 11:28",
    end: "10/19/17 1:02"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/18/17 10:51",
    end: "10/19/17 1:04"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/19/17 12:48",
    end: "10/19/17 1:19"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/19/17 1:27",
    end: "10/19/17 1:34"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/19/17 1:19",
    end: "10/19/17 1:34"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/19/17 1:22",
    end: "10/19/17 1:37"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/19/17 1:50",
    end: "10/19/17 2:02"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/19/17 2:05",
    end: "10/19/17 2:18"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/19/17 2:08",
    end: "10/19/17 2:20"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/19/17 2:00",
    end: "10/19/17 2:21"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/19/17 2:36",
    end: "10/19/17 2:45"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/19/17 2:40",
    end: "10/19/17 2:50"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/19/17 2:25",
    end: "10/19/17 2:54"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/19/17 4:02",
    end: "10/19/17 4:22"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/19/17 4:20",
    end: "10/19/17 4:49"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/19/17 4:57",
    end: "10/19/17 5:10"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/19/17 6:03",
    end: "10/19/17 6:15"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/19/17 6:22",
    end: "10/19/17 7:19"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/19/17 8:23",
    end: "10/19/17 8:54"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/19/17 9:10",
    end: "10/19/17 9:33"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/19/17 9:20",
    end: "10/19/17 9:37"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/19/17 10:46",
    end: "10/19/17 10:59"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/19/17 10:56",
    end: "10/19/17 11:05"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/19/17 10:57",
    end: "10/19/17 11:06"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/19/17 10:45",
    end: "10/19/17 11:06"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/19/17 11:06",
    end: "10/19/17 11:20"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/19/17 11:07",
    end: "10/19/17 11:25"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/19/17 11:11",
    end: "10/19/17 11:25"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/19/17 11:03",
    end: "10/19/17 11:25"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/19/17 11:12",
    end: "10/19/17 11:29"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/19/17 11:29",
    end: "10/19/17 11:39"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/19/17 11:32",
    end: "10/19/17 11:41"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/19/17 11:48",
    end: "10/19/17 11:57"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/19/17 11:47",
    end: "10/19/17 11:57"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/18/17 11:46",
    end: "10/19/17 12:00"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/18/17 11:57",
    end: "10/19/17 12:08"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/19/17 12:10",
    end: "10/19/17 12:20"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/19/17 12:13",
    end: "10/19/17 12:27"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/19/17 12:24",
    end: "10/19/17 12:32"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/19/17 12:16",
    end: "10/19/17 12:34"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/19/17 12:22",
    end: "10/19/17 12:54"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/20/17 12:43",
    end: "10/20/17 1:03"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/20/17 12:58",
    end: "10/20/17 1:08"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/20/17 12:51",
    end: "10/20/17 1:09"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/20/17 12:55",
    end: "10/20/17 1:11"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/20/17 1:01",
    end: "10/20/17 1:12"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/20/17 12:58",
    end: "10/20/17 1:13"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/20/17 12:15",
    end: "10/20/17 1:27"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/20/17 1:07",
    end: "10/20/17 1:28"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/20/17 1:35",
    end: "10/20/17 1:47"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/20/17 1:33",
    end: "10/20/17 1:49"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/20/17 1:54",
    end: "10/20/17 2:11"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/20/17 2:14",
    end: "10/20/17 2:24"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/20/17 2:37",
    end: "10/20/17 2:55"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/20/17 2:47",
    end: "10/20/17 3:06"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/20/17 3:19",
    end: "10/20/17 3:29"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/20/17 3:31",
    end: "10/20/17 3:46"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/20/17 3:32",
    end: "10/20/17 3:50"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/20/17 2:35",
    end: "10/20/17 3:52"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/20/17 3:43",
    end: "10/20/17 3:57"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/20/17 4:08",
    end: "10/20/17 4:16"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/20/17 4:06",
    end: "10/20/17 4:20"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/20/17 3:44",
    end: "10/20/17 4:28"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/20/17 4:09",
    end: "10/20/17 4:29"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/20/17 4:23",
    end: "10/20/17 4:34"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/20/17 4:26",
    end: "10/20/17 4:50"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/20/17 5:29",
    end: "10/20/17 5:36"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/20/17 5:42",
    end: "10/20/17 5:52"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/20/17 5:51",
    end: "10/20/17 6:00"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/20/17 6:18",
    end: "10/20/17 6:32"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/20/17 6:24",
    end: "10/20/17 6:37"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/20/17 6:56",
    end: "10/20/17 7:29"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/20/17 7:21",
    end: "10/20/17 7:38"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/20/17 7:58",
    end: "10/20/17 8:18"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/20/17 7:52",
    end: "10/20/17 8:20"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/20/17 8:19",
    end: "10/20/17 8:31"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/20/17 8:55",
    end: "10/20/17 8:50"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/20/17 9:18",
    end: "10/20/17 9:36"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/20/17 9:30",
    end: "10/20/17 9:39"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/20/17 10:27",
    end: "10/20/17 10:58"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/20/17 11:16",
    end: "10/20/17 11:28"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/19/17 11:50",
    end: "10/20/17 12:01"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/19/17 11:59",
    end: "10/20/17 12:06"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/20/17 12:12",
    end: "10/20/17 12:19"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/20/17 12:11",
    end: "10/20/17 12:24"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/20/17 12:05",
    end: "10/20/17 12:27"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/20/17 12:10",
    end: "10/20/17 12:28"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/20/17 12:09",
    end: "10/20/17 12:29"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/20/17 12:22",
    end: "10/20/17 12:33"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/20/17 12:27",
    end: "10/20/17 12:35"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/20/17 12:24",
    end: "10/20/17 12:37"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/20/17 12:04",
    end: "10/20/17 12:42"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/20/17 12:31",
    end: "10/20/17 12:43"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/20/17 12:34",
    end: "10/20/17 12:49"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/20/17 12:29",
    end: "10/20/17 12:50"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/20/17 12:40",
    end: "10/20/17 12:52"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/20/17 12:40",
    end: "10/20/17 12:55"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/20/17 12:36",
    end: "10/20/17 12:58"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/19/17 10:43",
    end: "10/20/17 12:58"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/21/17 1:04",
    end: "10/21/17 1:14"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/21/17 1:52",
    end: "10/21/17 2:07"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/21/17 2:09",
    end: "10/21/17 2:15"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/21/17 2:47",
    end: "10/21/17 2:57"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/21/17 3:02",
    end: "10/21/17 3:21"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/20/17 7:00",
    end: "10/21/17 3:50"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/21/17 12:43",
    end: "10/21/17 12:54"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/22/17 3:45",
    end: "10/22/17 3:55"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/22/17 9:38",
    end: "10/22/17 9:49"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/23/17 12:55",
    end: "10/23/17 1:09"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/19/17 11:52",
    end: "10/23/17 1:30"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/23/17 11:05",
    end: "10/23/17 11:14"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/24/17 6:44",
    end: "10/24/17 6:52"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/25/17 5:06",
    end: "10/25/17 5:32"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/25/17 7:26",
    end: "10/25/17 7:40"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/25/17 7:45",
    end: "10/25/17 8:03"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/25/17 11:03",
    end: "10/25/17 11:19"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/25/17 11:08",
    end: "10/25/17 11:19"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/25/17 11:11",
    end: "10/25/17 11:23"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/25/17 11:20",
    end: "10/25/17 11:30"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/25/17 11:14",
    end: "10/25/17 11:37"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/25/17 11:18",
    end: "10/25/17 11:37"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/25/17 11:28",
    end: "10/25/17 11:39"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/25/17 11:29",
    end: "10/25/17 11:40"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/25/17 11:26",
    end: "10/25/17 11:40"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/25/17 11:10",
    end: "10/25/17 11:43"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/25/17 11:39",
    end: "10/25/17 11:48"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/26/17 12:45",
    end: "10/26/17 1:01"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/26/17 12:55",
    end: "10/26/17 1:06"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/26/17 12:57",
    end: "10/26/17 1:11"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/26/17 12:57",
    end: "10/26/17 1:17"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/26/17 1:08",
    end: "10/26/17 1:25"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/26/17 1:10",
    end: "10/26/17 1:28"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/26/17 1:13",
    end: "10/26/17 1:28"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/26/17 1:23",
    end: "10/26/17 1:30"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/26/17 1:27",
    end: "10/26/17 1:38"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/26/17 1:28",
    end: "10/26/17 1:40"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/26/17 1:49",
    end: "10/26/17 2:00"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/26/17 1:54",
    end: "10/26/17 2:01"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/26/17 1:48",
    end: "10/26/17 2:05"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/26/17 12:47",
    end: "10/26/17 2:17"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/26/17 1:03",
    end: "10/26/17 2:22"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/26/17 2:24",
    end: "10/26/17 2:33"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/26/17 2:28",
    end: "10/26/17 2:36"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/26/17 1:25",
    end: "10/26/17 2:41"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/26/17 2:31",
    end: "10/26/17 2:42"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/26/17 3:00",
    end: "10/26/17 3:13"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/26/17 3:08",
    end: "10/26/17 3:19"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/26/17 3:08",
    end: "10/26/17 3:25"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/26/17 3:24",
    end: "10/26/17 3:43"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/26/17 2:23",
    end: "10/26/17 3:45"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/26/17 3:32",
    end: "10/26/17 3:55"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/26/17 3:40",
    end: "10/26/17 3:58"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/26/17 3:55",
    end: "10/26/17 4:01"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/26/17 4:05",
    end: "10/26/17 4:14"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/26/17 3:53",
    end: "10/26/17 4:24"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/26/17 4:11",
    end: "10/26/17 4:29"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/26/17 4:30",
    end: "10/26/17 4:44"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/26/17 4:54",
    end: "10/26/17 5:05"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/26/17 5:22",
    end: "10/26/17 5:31"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/26/17 5:19",
    end: "10/26/17 5:34"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/26/17 5:27",
    end: "10/26/17 5:41"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/26/17 5:37",
    end: "10/26/17 5:47"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/26/17 6:17",
    end: "10/26/17 6:26"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/26/17 6:24",
    end: "10/26/17 6:32"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/26/17 6:22",
    end: "10/26/17 6:34"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/26/17 6:18",
    end: "10/26/17 6:37"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/26/17 7:00",
    end: "10/26/17 7:13"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/26/17 7:31",
    end: "10/26/17 7:54"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/26/17 6:13",
    end: "10/26/17 8:16"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/26/17 8:21",
    end: "10/26/17 8:40"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/26/17 8:45",
    end: "10/26/17 9:06"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/26/17 6:12",
    end: "10/26/17 9:15"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/26/17 9:03",
    end: "10/26/17 9:41"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/26/17 7:36",
    end: "10/26/17 9:52"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/26/17 9:45",
    end: "10/26/17 10:02"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/26/17 9:28",
    end: "10/26/17 10:14"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/26/17 10:20",
    end: "10/26/17 10:30"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/26/17 10:14",
    end: "10/26/17 10:33"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/26/17 10:18",
    end: "10/26/17 10:33"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/26/17 10:36",
    end: "10/26/17 10:46"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/25/17 11:42",
    end: "10/26/17 12:01"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/25/17 11:52",
    end: "10/26/17 12:04"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/26/17 12:00",
    end: "10/26/17 12:13"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/26/17 12:08",
    end: "10/26/17 12:14"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/25/17 11:56",
    end: "10/26/17 12:19"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/25/17 11:53",
    end: "10/26/17 12:21"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/25/17 11:51",
    end: "10/26/17 12:21"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/26/17 12:11",
    end: "10/26/17 12:29"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/26/17 12:07",
    end: "10/26/17 12:30"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/26/17 12:20",
    end: "10/26/17 12:32"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/26/17 12:08",
    end: "10/26/17 12:34"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/26/17 12:27",
    end: "10/26/17 12:47"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/26/17 12:42",
    end: "10/26/17 12:49"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/26/17 12:24",
    end: "10/26/17 12:50"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/26/17 12:30",
    end: "10/26/17 12:52"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/26/17 12:25",
    end: "10/26/17 12:52"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/26/17 12:47",
    end: "10/26/17 12:54"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/26/17 12:49",
    end: "10/26/17 12:56"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/26/17 12:46",
    end: "10/26/17 12:58"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/26/17 12:46",
    end: "10/26/17 12:59"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/26/17 12:48",
    end: "10/26/17 12:59"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/27/17 1:10",
    end: "10/27/17 1:36"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/27/17 2:45",
    end: "10/27/17 2:59"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/27/17 2:52",
    end: "10/27/17 3:13"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/27/17 6:32",
    end: "10/27/17 6:52"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/27/17 9:42",
    end: "10/27/17 10:01"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/27/17 12:31",
    end: "10/27/17 12:58"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/28/17 6:05",
    end: "10/28/17 6:21"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/28/17 6:41",
    end: "10/28/17 7:01"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/28/17 7:44",
    end: "10/28/17 7:58"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/28/17 11:04",
    end: "10/28/17 11:21"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/29/17 4:03",
    end: "10/29/17 4:17"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/29/17 4:34",
    end: "10/29/17 5:06"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/29/17 10:52",
    end: "10/29/17 11:05"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/30/17 2:42",
    end: "10/30/17 3:01"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/30/17 6:55",
    end: "10/30/17 7:12"
  },
  {
-   country: "Russian Federation",
+   country: "Russia",
    start: "10/31/17 3:40",
    end: "10/31/17 4:01"
  },

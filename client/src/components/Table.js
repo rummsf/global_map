@@ -1,40 +1,64 @@
 import React from "react";
+import "../Styling.css";
 
 class Table extends React.Component {
+  countries = () => {
+    return [
+      ...this.props.countriesToRender.filter(country =>
+        country[0].toLowerCase().includes(this.props.searchQuery)
+      )
+    ];
+  };
+
   render() {
-    const countries = this.props.countriesToRender;
+    const countries = this.countries();
     return (
       <div>
-        <table className="ui celled center aligned table">
-          <thead>
-            <tr>
-              <th>Country</th>
-              <th>
-                {" "}
-                <button
-                // onClick={() => this.sortBy()}
-                >
-                  Developers
-                </button>
-              </th>
-            </tr>
-          </thead>
-          <tbody>
-            <tr>
-              <td>
-                {countries.map(country => {
-                  return <tr>{country[0]}</tr>;
-                })}
-              </td>
+        <br />
+        <div class="ui search">
+          <div class="ui small icon input">
+            <input
+              class="prompt"
+              type="text"
+              placeholder="Search by country"
+              onChange={event =>
+                this.props.changeSearchQuery(event.target.value)
+              }
+            />
+            <i class="search icon" />
+          </div>
+        </div>
+        <br />
+        <div
+          id="container"
+          style={{ height: "100%", width: "50%", margin: "0 auto" }}
+        >
+          <div id="scroll">
+            <table className="ui  celled center aligned  table">
+              <thead>
+                <tr>
+                  <th>Country</th>
+                  <th>Developers</th>
+                </tr>
+              </thead>
+              <tbody data-bind="foreach:FollowupEntries">
+                <tr>
+                  <td>
+                    {countries.map(country => {
+                      return <tr>{country[0]}</tr>;
+                    })}
+                  </td>
 
-              <td>
-                {countries.map(country => {
-                  return <tr>{country[1]}</tr>;
-                })}
-              </td>
-            </tr>
-          </tbody>
-        </table>
+                  <td>
+                    {countries.map(country => {
+                      return <tr>{country[1]}</tr>;
+                    })}
+                  </td>
+                </tr>
+              </tbody>
+            </table>
+          </div>
+        </div>
       </div>
     );
   }

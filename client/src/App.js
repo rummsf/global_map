@@ -1,15 +1,15 @@
 import React, { Component } from "react";
 import Header from "./components/Header";
 import HomePage from "./components/HomePage";
-import Map from "./components/Map";
+import MapIndex from "./components/MapIndex";
 import Table from "./components/Table";
 import { Router, Switch, Route } from "react-router-dom";
 import history from "./history";
 
 class App extends Component {
   state = {
-    developers: []
-    // countriesToRender: []
+    developers: [],
+    searchQuery: ""
   };
 
   componentDidMount() {
@@ -18,28 +18,9 @@ class App extends Component {
       .then(developers => this.setState({ developers }));
   }
 
-  // countriesToRender = () => {
-  // const countriesToRender =
-  // return this.state.developers.reduce(
-  // the first param of a reduce is the callback the callback's first two params
-  //are the accumulator (dpc) and the current array value (dev)
-  // (dpc, dev) => {
-  // console.log("\n" + "-".repeat(25));
-  // console.log("dpc is currently:", dpc);
-  // console.log("dev is currently:", dev);
-
-  // if the country already has an entry in dpc, increment it
-  // otherwise, create the entry with a value of 1
-  // dpc[dev.country] = dpc[dev.country] ? dpc[dev.country] + 1 : 1;
-
-  // return the updated dpc object
-  // return dpc;
-  // },
-  // the second param of the reduce is the initial value of the accumulator
-  // {}
-  // );
-  // this.setState({ countriesToRender: countriesToRender });
-  // };
+  changeSearchQuery = searchQuery => {
+    this.setState({ searchQuery });
+  };
 
   countriesToRender = () => {
     const devsPerCountry = this.state.developers.reduce(
@@ -76,10 +57,8 @@ class App extends Component {
               <Table
                 {...props}
                 countriesToRender={countries}
-                // sortBy={this.sortBy}
-                // countriesToRender={this.state.countriestoRender} />;
-                // {this.state.countries} />;
-                // developers={this.state.developers}
+                searchQuery={this.state.searchQuery}
+                changeSearchQuery={this.changeSearchQuery}
               />
             )}
           />
@@ -87,7 +66,7 @@ class App extends Component {
             exact
             path="/map"
             render={props => (
-              <Map
+              <MapIndex
                 {...props}
                 countriesToRender={countries}
                 // {this.state.countries} />;
@@ -102,6 +81,34 @@ class App extends Component {
 }
 
 export default App;
+
+// sortBy={this.sortBy}
+// countriesToRender={this.state.countriestoRender} />;
+// {this.state.countries} />;
+// developers={this.state.developers}
+
+// countriesToRender = () => {
+// const countriesToRender =
+// return this.state.developers.reduce(
+// the first param of a reduce is the callback the callback's first two params
+//are the accumulator (dpc) and the current array value (dev)
+// (dpc, dev) => {
+// console.log("\n" + "-".repeat(25));
+// console.log("dpc is currently:", dpc);
+// console.log("dev is currently:", dev);
+
+// if the country already has an entry in dpc, increment it
+// otherwise, create the entry with a value of 1
+// dpc[dev.country] = dpc[dev.country] ? dpc[dev.country] + 1 : 1;
+
+// return the updated dpc object
+// return dpc;
+// },
+// the second param of the reduce is the initial value of the accumulator
+// {}
+// );
+// this.setState({ countriesToRender: countriesToRender });
+// };
 
 // Return unique instances of countries from the full list
 // countries = () => {
