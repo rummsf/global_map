@@ -4,9 +4,11 @@ import { Link } from "react-router-dom";
 const Header = props => {
   return (
     <>
-      <Link to={`/`}>
-        <h1>DEVDATA</h1>
-      </Link>
+      <h1>
+        <Link to={`/`}>DEVDATA</Link>
+      </h1>
+      <hr />
+      <h3>// HACKER RANK SURVEY 2018</h3>
     </>
   );
 };

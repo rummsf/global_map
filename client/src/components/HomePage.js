@@ -6,12 +6,17 @@ const HomePage = () => {
     <>
       <div>
         <Link to={`/table`}>
-          <h1>TABLE</h1>
+          <h2 style={{ color: "lime" }}>TABLE</h2>
         </Link>
       </div>
       <div>
         <Link to={`/map`}>
-          <h1>MAP</h1>
+          <h2 style={{ color: "magenta" }}>MAP</h2>
+        </Link>
+      </div>
+      <div>
+        <Link to={`/chart`}>
+          <h2 style={{ color: "orange" }}>CHART</h2>
         </Link>
       </div>
     </>

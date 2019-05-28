@@ -1,10 +1,10 @@
 import * as React from "react";
 import { Chart } from "react-google-charts";
 
-class MapIndex extends React.Component {
+class Map extends React.Component {
   getData = () => {
     const data = Object.values(this.props.countriesToRender);
-    const mapData = [["Country", "DevCount"], ...data];
+    const mapData = [["Country", "Developers"], ...data];
     return mapData;
   };
 
@@ -27,7 +27,7 @@ class MapIndex extends React.Component {
           ]}
           chartType="GeoChart"
           width="100%"
-          height="690px"
+          height="675px"
           data={data}
           options={{
             colorAxis: { colors: ["#c3dbd5", "#21493f"] },
@@ -39,4 +39,4 @@ class MapIndex extends React.Component {
   }
 }
 
-export default MapIndex;
+export default Map;
