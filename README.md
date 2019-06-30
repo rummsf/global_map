@@ -6,4 +6,4 @@ React app with Rails server
 
 - React router and semantic UI
 
-- npm start (client), rails s (server)
+- Run commands: "npm start" (client), "rails s" (server)
