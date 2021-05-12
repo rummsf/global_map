@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "chart.js": "^2.8.0",
+    "chart.js": "^2.9.4",
     "chartjs": "^0.3.24",
     "country-data-list": "^1.1.2",
     "country-list": "^2.1.1",
